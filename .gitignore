@@ -1,0 +1,37 @@
+# macOS system files
+
+.DS_Store
+__MACOSX/
+
+# Python cache files
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# Pacman generated files
+
+moves.txt
+*.layout
+
+# Coursework/starter framework files not included in this portfolio repo
+
+pacman/
+pacman-cw2/
+test_cases/
+
+# Logs and temporary files
+
+*.log
+*.tmp
+
+# IDE/editor files
+
+.idea/
+.vscode/
